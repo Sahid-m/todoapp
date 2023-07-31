@@ -45,10 +45,6 @@ function App() {
     });
   }
 
-  // while (true) {
-  //   alert("HIII");
-  // }
-  console.log(todos);
   return (
     <div className="App">
       <div className="container">
