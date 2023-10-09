@@ -48,7 +48,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1 className="text-center my-4">Todo App</h1>
+        <h1 className="text-center my-4">To-do App</h1>
         <div className="card">
           <div className="cardbody">
             <form onSubmit={peee}>
